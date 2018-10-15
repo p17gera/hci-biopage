@@ -1,7 +1,6 @@
 ## Βιογραφικό 
 
-You can use the [editor on GitHub](https://github.com/p17gera/hci-biopage/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
+Γεία χαρα νταν μαγκες τι λεει ολα καλα?
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
